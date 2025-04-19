@@ -1,0 +1,119 @@
+openapi: "3.0.1"
+info:
+  title: Finance service API
+  description: API of finance-service
+  version: 1.0.0
+servers:
+  - url: http://localhost:8686
+    description: local server
+paths:
+  /api/finance/resumes:
+    post:
+      summary: Create new resume
+      operationId: saveResume
+      requestBody:
+        description: Request to save new resume.
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/ResumeRequest"
+      responses:
+        '200':
+          description: Success create
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ResumeResponse"
+  /api/finance/resumes/{productId}:
+    get:
+      summary: Getting resumes by productId and dates
+      operationId: getResumesByProductId
+      parameters:
+        - name: productId
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: startDate
+          in: query
+          required: false
+          schema:
+            type: string
+            format: date
+            example: "2025-03-01"
+            description: Start date for filtering resumes
+        - name: endDate
+          in: query
+          required: false
+          schema:
+            type: string
+            format: date
+            example: "2025-03-31"
+            description: End date for filtering resumes
+      responses:
+        '200':
+          description: Success
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/ResumeResponse'
+components:
+  schemas:
+    ResumeRequest:
+      type: object
+      properties:
+        productType:
+          type: string
+          description: product type
+        productId:
+          type: string
+        customerId:
+          type: string
+        creditEnabledToUse:
+          type: number
+          format: double
+        creditLimitTotal:
+          type: number
+          format: double
+        creditLimitUsed:
+          type: number
+          format: double
+        totalAmountInAccount:
+          type: number
+          format: double
+        informDate:
+          type: string
+          format: date
+
+    ResumeResponse:
+      type: object
+      properties:
+        id:
+          type: string
+        result:
+          type: string
+        productType:
+          type: string
+          description: product type
+        productId:
+          type: string
+        customerId:
+          type: string
+        creditEnabledToUse:
+          type: number
+          format: double
+        creditLimitTotal:
+          type: number
+          format: double
+        creditLimitUsed:
+          type: number
+          format: double
+        totalAmountInAccount:
+          type: number
+          format: double
+        informDate:
+          type: string
+          format: date
