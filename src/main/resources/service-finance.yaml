@@ -60,6 +60,59 @@ paths:
                 type: array
                 items:
                   $ref: '#/components/schemas/ResumeResponse'
+  /api/finance/debts:
+    post:
+      summary: Create new debt
+      operationId: saveDebt
+      requestBody:
+        description: Request to save new debt.
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/DebtRequest"
+      responses:
+        '200':
+          description: Success create
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/DebtResponse"
+  /api/finance/debts/{productId}:
+    get:
+      summary: Getting debts by productId and dates
+      operationId: getDebtsByProductId
+      parameters:
+        - name: productId
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: startDate
+          in: query
+          required: false
+          schema:
+            type: string
+            format: date
+            example: "2025-03-01"
+            description: Start date for filtering debts
+        - name: endDate
+          in: query
+          required: false
+          schema:
+            type: string
+            format: date
+            example: "2025-03-31"
+            description: End date for filtering debts
+      responses:
+        '200':
+          description: Success
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/DebtResponse'
 components:
   schemas:
     ResumeRequest:
@@ -117,3 +170,77 @@ components:
         informDate:
           type: string
           format: date
+    DebtRequest:
+      type: object
+      properties:
+        productType:
+          type: string
+          description: product type
+        productId:
+          type: string
+        customerId:
+          type: string
+        creditLimitUsed:
+          type: number
+          format: double
+        maintanceAmount:
+          type: number
+          format: double
+        totalAmountToPay:
+          type: number
+          format: double
+        startInvoicingDate:
+          type: string
+          format: date
+        endInvoicingDate:
+          type: string
+          format: date
+        paymentDate:
+          type: string
+          format: date
+        paymentTransactionId:
+          type: string
+        paymentStatus:
+          type: string
+          description: PAYED, DEBT
+        numberPartToPay:
+          type: string
+    DebtResponse:
+      type: object
+      properties:
+        debtId:
+          type: string
+        productType:
+          type: string
+          description: product type
+        productId:
+          type: string
+        customerId:
+          type: string
+        creditLimitUsed:
+          type: number
+          format: double
+        maintanceAmount:
+          type: number
+          format: double
+        totalAmountToPay:
+          type: number
+          format: double
+        startInvoicingDate:
+          type: string
+          format: date
+        endInvoicingDate:
+          type: string
+          format: date
+        paymentDate:
+          type: string
+          format: date
+        paymentTransactionId:
+          type: string
+        paymentStatus:
+          type: string
+          description: PAYED, DEBT
+        numberPartToPay:
+          type: string
+
+

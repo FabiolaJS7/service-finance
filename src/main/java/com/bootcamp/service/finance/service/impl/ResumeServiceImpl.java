@@ -43,9 +43,9 @@ public class ResumeServiceImpl implements ResumeService {
     public Flux<ResumeResponse> getAllResumes(String productId, LocalDate startDate, LocalDate endDate) {
         log.info("Getting all resumes by productId {} between {}, {}", productId, startDate, endDate);
         return daoResumeFactory.getResumeRepository().findResumeModelsByProductIdAndInformDateBetween(productId, startDate, endDate)
-                .doOnSubscribe(subscription -> log.info("Fetching resumes for {}", productId))
+                .doOnSubscribe(subscription -> log.info("Getting resumes for {}", productId))
                 .map(ResumeMapper.INSTANCE::getResumeResponseOfResumeModel)
-                .doOnComplete(() -> log.info("Fetching resumes success for {}", productId))
-                .doOnError(throwable -> log.error("Error fetching resumes for {}, {}, {}", productId, startDate, endDate));
+                .doOnComplete(() -> log.info("Getting resumes success for {}", productId))
+                .doOnError(throwable -> log.error("Error getting resumes for {}, {}, {}", productId, startDate, endDate));
     }
 }
