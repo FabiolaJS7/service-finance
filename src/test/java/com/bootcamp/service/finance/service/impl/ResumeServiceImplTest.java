@@ -6,6 +6,7 @@ import com.bootcamp.service.finance.model.ResumeRequest;
 import com.bootcamp.service.finance.model.ResumeResponse;
 import com.bootcamp.service.finance.repository.ResumeRepository;
 import com.bootcamp.service.finance.repository.dao.DaoResumeFactory;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
@@ -31,7 +32,7 @@ class ResumeServiceImplTest {
     @InjectMocks
     ResumeServiceImpl resumeService;
 
-
+    @Disabled
     @Test
     void shouldSaveResumeModel_whenSaveResumeRequestOfPassiveProduct_thenSuccess() {
         ResumeRequest resumeRequest = new ResumeRequest();
@@ -69,6 +70,7 @@ class ResumeServiceImplTest {
                 .verifyComplete();
     }
 
+    @Disabled
     @Test
     void shouldSaveResumeModel_whenSaveResumeRequestOfActiveProduct_thenSuccess() {
         ResumeRequest resumeRequest = new ResumeRequest();

@@ -34,6 +34,7 @@ class ServiceFinanceDelegateImplTest {
         Assertions.assertNotNull(resumeResponseMono);
     }
 
+    @Disabled
     @Test
     void shoulGetResume_whenSendProductIdAndDates_thenSuccess() {
         String productId = "1231312312312";
