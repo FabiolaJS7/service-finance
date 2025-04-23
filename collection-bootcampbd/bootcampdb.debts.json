@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "6805d19a3e84a23c85244b9b"
+  },
+  "productType": "CC",
+  "productId": "67fabf94ec8287214a828c9c",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditLimitUsed": 80,
+  "maintenanceAmount": 10,
+  "totalAmountPay": 90,
+  "paymentDate": {
+    "$date": "2025-05-20T05:00:00.000Z"
+  },
+  "paymentStatus": "PENDING_PAY",
+  "_class": "com.bootcamp.service.finance.model.DebtModel"
+},
+{
+  "_id": {
+    "$oid": "6805d19a3e84a23c85244ba1"
+  },
+  "productType": "CC",
+  "productId": "67fac6ee3d4d5b2abeb89be8",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditLimitUsed": 500,
+  "maintenanceAmount": 10,
+  "totalAmountPay": 510,
+  "paymentDate": {
+    "$date": "2025-05-20T05:00:00.000Z"
+  },
+  "paymentStatus": "PENDING_PAY",
+  "_class": "com.bootcamp.service.finance.model.DebtModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1df"
+  },
+  "productType": "CC",
+  "productId": "67fac6ee3d4d5b2abeb89be8",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditLimitUsed": 500,
+  "maintenanceAmount": 10,
+  "totalAmountPay": 510,
+  "paymentDate": {
+    "$date": "2025-05-20T00:00:00.000Z"
+  },
+  "paymentStatus": "PENDING_PAY",
+  "_class": "com.bootcamp.service.finance.model.DebtModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1e1"
+  },
+  "productType": "CC",
+  "productId": "6807cdac0427cd684ba26827",
+  "customerId": "67ec1a63fabf6d0f4ada9866",
+  "creditLimitUsed": 0,
+  "maintenanceAmount": 10,
+  "totalAmountPay": 10,
+  "paymentDate": {
+    "$date": "2025-05-20T00:00:00.000Z"
+  },
+  "paymentStatus": "PENDING_PAY",
+  "_class": "com.bootcamp.service.finance.model.DebtModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1e0"
+  },
+  "productType": "CC",
+  "productId": "67fabf94ec8287214a828c9c",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditLimitUsed": 80,
+  "maintenanceAmount": 10,
+  "totalAmountPay": 90,
+  "paymentDate": {
+    "$date": "2025-05-20T00:00:00.000Z"
+  },
+  "paymentStatus": "PENDING_PAY",
+  "_class": "com.bootcamp.service.finance.model.DebtModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1ed"
+  },
+  "productType": "CC",
+  "productId": "67fabf94ec8287214a828c9c",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditLimitUsed": 80,
+  "maintenanceAmount": 10,
+  "totalAmountPay": 90,
+  "paymentDate": {
+    "$date": "2025-05-20T00:00:00.000Z"
+  },
+  "paymentStatus": "PENDING_PAY",
+  "_class": "com.bootcamp.service.finance.model.DebtModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1ee"
+  },
+  "productType": "CC",
+  "productId": "6807cdac0427cd684ba26827",
+  "customerId": "67ec1a63fabf6d0f4ada9866",
+  "creditLimitUsed": 0,
+  "maintenanceAmount": 10,
+  "totalAmountPay": 10,
+  "paymentDate": {
+    "$date": "2025-05-20T00:00:00.000Z"
+  },
+  "paymentStatus": "PENDING_PAY",
+  "_class": "com.bootcamp.service.finance.model.DebtModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1f0"
+  },
+  "productType": "CC",
+  "productId": "67fac6ee3d4d5b2abeb89be8",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditLimitUsed": 500,
+  "maintenanceAmount": 10,
+  "totalAmountPay": 510,
+  "paymentDate": {
+    "$date": "2025-05-20T00:00:00.000Z"
+  },
+  "paymentStatus": "PENDING_PAY",
+  "_class": "com.bootcamp.service.finance.model.DebtModel"
+}]

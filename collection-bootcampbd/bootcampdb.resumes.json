@@ -1,0 +1,1440 @@
+[{
+  "_id": {
+    "$oid": "68054faa2e9ef8505be6e8fa"
+  },
+  "productType": "SA",
+  "productId": "67fac6f73d4d5b2abeb89bea",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1280,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68054faa2e9ef8505be6e8f9"
+  },
+  "productType": "SA",
+  "productId": "67f9cc806e374c0902dcdb73",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 505,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68054faa2e9ef8505be6e8fd"
+  },
+  "productType": "SA",
+  "productId": "67fb3aaa3d4d5b2abeb89bec",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1210,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68054faa2e9ef8505be6e8fe"
+  },
+  "productType": "SA",
+  "productId": "67fe9db2f83aa2186dd5e6a0",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68054faa2e9ef8505be6e8fb"
+  },
+  "productType": "SA",
+  "productId": "67fe92e0f83aa2186dd5e69c",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552082e9ef8505be6e90d"
+  },
+  "productType": "SA",
+  "productId": "67f9cc806e374c0902dcdb73",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 505,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552462e9ef8505be6e90e"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67f9cc806e374c0902dcdb73",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 505,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552462e9ef8505be6e90f"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67f9cd80200fc270ce30e284",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 3720,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552462e9ef8505be6e910"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fabf94ec8287214a828c9c",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 2920,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 80,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552462e9ef8505be6e911"
+  },
+  "productType": "PLAZO FIJO",
+  "productId": "67f9e1c9fe034d395c6d23b3",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 20,
+  "informDate": {
+    "$date": "2025-04-10T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552462e9ef8505be6e912"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fac6ee3d4d5b2abeb89be8",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 3000,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552462e9ef8505be6e913"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9360f83aa2186dd5e69e",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552462e9ef8505be6e914"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9db2f83aa2186dd5e6a0",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552462e9ef8505be6e915"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fac6f73d4d5b2abeb89bea",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1280,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552462e9ef8505be6e916"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fb3aaa3d4d5b2abeb89bec",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1210,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552462e9ef8505be6e917"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67fec9835c652468edc457d0",
+  "customerId": "67ec1a63fabf6d0f4ada9866",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 980,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552462e9ef8505be6e918"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe92e0f83aa2186dd5e69c",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552812e9ef8505be6e919"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67f9cc806e374c0902dcdb73",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 505,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552812e9ef8505be6e91a"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67f9cd80200fc270ce30e284",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 3720,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552812e9ef8505be6e91b"
+  },
+  "productType": "PLAZO FIJO",
+  "productId": "67f9e1c9fe034d395c6d23b3",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 50,
+  "informDate": {
+    "$date": "2025-04-11T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680552812e9ef8505be6e91c"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fabf94ec8287214a828c9c",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 2920,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 80,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559c3530ef227e49e8f4c"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fb3aaa3d4d5b2abeb89bec",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1210,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559c3530ef227e49e8f51"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe92e0f83aa2186dd5e69c",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559c3530ef227e49e8f4e"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fac6ee3d4d5b2abeb89be8",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 3000,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559c3530ef227e49e8f52"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9db2f83aa2186dd5e6a0",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559c3530ef227e49e8f4f"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fabf94ec8287214a828c9c",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 2920,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 80,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559c3530ef227e49e8f50"
+  },
+  "productType": "PLAZO FIJO",
+  "productId": "67f9e1c9fe034d395c6d23b3",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 100,
+  "informDate": {
+    "$date": "2025-04-12T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559c3530ef227e49e8f4b"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67f9cc806e374c0902dcdb73",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 505,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559c3530ef227e49e8f4d"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fac6f73d4d5b2abeb89bea",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1280,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559c3530ef227e49e8f53"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67fec9835c652468edc457d0",
+  "customerId": "67ec1a63fabf6d0f4ada9866",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 980,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559c3530ef227e49e8f4a"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67f9cd80200fc270ce30e284",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 3720,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559c3530ef227e49e8f54"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9360f83aa2186dd5e69e",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559fc530ef227e49e8f55"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67f9cc806e374c0902dcdb73",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 505,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559fc530ef227e49e8f56"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67f9cd80200fc270ce30e284",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 3720,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559fc530ef227e49e8f57"
+  },
+  "productType": "PLAZO FIJO",
+  "productId": "67f9e1c9fe034d395c6d23b3",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 60,
+  "informDate": {
+    "$date": "2025-04-13T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559fc530ef227e49e8f58"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fabf94ec8287214a828c9c",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 2920,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 80,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559fc530ef227e49e8f59"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fac6ee3d4d5b2abeb89be8",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 3000,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559fc530ef227e49e8f5a"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fac6f73d4d5b2abeb89bea",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1280,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559fc530ef227e49e8f5b"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fb3aaa3d4d5b2abeb89bec",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1210,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559fc530ef227e49e8f5c"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe92e0f83aa2186dd5e69c",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559fc530ef227e49e8f5d"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9360f83aa2186dd5e69e",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559fc530ef227e49e8f5e"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9db2f83aa2186dd5e6a0",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "680559fc530ef227e49e8f5f"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67fec9835c652468edc457d0",
+  "customerId": "67ec1a63fabf6d0f4ada9866",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 980,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68055a38530ef227e49e8f60"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67f9cc806e374c0902dcdb73",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 505,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68055a38530ef227e49e8f61"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67f9cd80200fc270ce30e284",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 3720,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68055a38530ef227e49e8f62"
+  },
+  "productType": "PLAZO FIJO",
+  "productId": "67f9e1c9fe034d395c6d23b3",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 100,
+  "informDate": {
+    "$date": "2025-04-14T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68055a38530ef227e49e8f63"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fabf94ec8287214a828c9c",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 2920,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 80,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68055a38530ef227e49e8f64"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fac6f73d4d5b2abeb89bea",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1280,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68055a38530ef227e49e8f65"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fb3aaa3d4d5b2abeb89bec",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1210,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68055a38530ef227e49e8f66"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fac6ee3d4d5b2abeb89be8",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 3000,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68055a38530ef227e49e8f67"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9360f83aa2186dd5e69e",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68055a38530ef227e49e8f68"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe92e0f83aa2186dd5e69c",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68055a38530ef227e49e8f69"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9db2f83aa2186dd5e6a0",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68055a38530ef227e49e8f6a"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67fec9835c652468edc457d0",
+  "customerId": "67ec1a63fabf6d0f4ada9866",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 980,
+  "informDate": {
+    "$date": "2025-04-20T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6805d19a3e84a23c85244ba6"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9db2f83aa2186dd5e6a0",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-21T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6805d19a3e84a23c85244ba3"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9360f83aa2186dd5e69e",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-21T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6805d19a3e84a23c85244b9d"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fb3aaa3d4d5b2abeb89bec",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1210,
+  "informDate": {
+    "$date": "2025-04-21T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6805d19a3e84a23c85244b9c"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fac6ee3d4d5b2abeb89be8",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 2500,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 500,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-21T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6805d19a3e84a23c85244ba0"
+  },
+  "productType": "PLAZO FIJO",
+  "productId": "67f9e1c9fe034d395c6d23b3",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 100,
+  "informDate": {
+    "$date": "2025-04-21T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6805d19a3e84a23c85244ba2"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67f9cc806e374c0902dcdb73",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 505,
+  "informDate": {
+    "$date": "2025-04-21T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6805d19a3e84a23c85244ba5"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67fec9835c652468edc457d0",
+  "customerId": "67ec1a63fabf6d0f4ada9866",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 980,
+  "informDate": {
+    "$date": "2025-04-21T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6805d19a3e84a23c85244b9f"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fabf94ec8287214a828c9c",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 2920,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 80,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-21T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6805d19a3e84a23c85244ba7"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fac6f73d4d5b2abeb89bea",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1280,
+  "informDate": {
+    "$date": "2025-04-21T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6805d19a3e84a23c85244b9e"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe92e0f83aa2186dd5e69c",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-21T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6805d19a3e84a23c85244ba4"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67f9cd80200fc270ce30e284",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 3720,
+  "informDate": {
+    "$date": "2025-04-21T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "68070fcdefa65e1ce0ee907a"
+  },
+  "productType": "SA",
+  "productId": "3456312312312",
+  "customerId": "BBBBBBB",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 2000,
+  "informDate": {
+    "$date": "2025-04-16T05:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1d4"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fac6f73d4d5b2abeb89bea",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1280,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1d3"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe92e0f83aa2186dd5e69c",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1d8"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fabf94ec8287214a828c9c",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 2920,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 80,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1db"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9360f83aa2186dd5e69e",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1d9"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fac6ee3d4d5b2abeb89be8",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 2500,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 500,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1d5"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9db2f83aa2186dd5e6a0",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1da"
+  },
+  "productType": "PLAZO FIJO",
+  "productId": "67f9e1c9fe034d395c6d23b3",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 100,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1dc"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67fec9835c652468edc457d0",
+  "customerId": "67ec1a63fabf6d0f4ada9866",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 980,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1d7"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67f9cc806e374c0902dcdb73",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 505,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1dd"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67f9cd80200fc270ce30e284",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 3720,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1d6"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fb3aaa3d4d5b2abeb89bec",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1210,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d381a6d3d85ebd16b1de"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "6807cdac0427cd684ba26827",
+  "customerId": "67ec1a63fabf6d0f4ada9866",
+  "creditEnabledToUse": 3000,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1e2"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9db2f83aa2186dd5e6a0",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1e3"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe92e0f83aa2186dd5e69c",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1e4"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fabf94ec8287214a828c9c",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 2920,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 80,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1e5"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fe9360f83aa2186dd5e69e",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1000,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1e6"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67fec9835c652468edc457d0",
+  "customerId": "67ec1a63fabf6d0f4ada9866",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 980,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1e7"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fb3aaa3d4d5b2abeb89bec",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1210,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1e9"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67fac6f73d4d5b2abeb89bea",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 1280,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1e8"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "6807cdac0427cd684ba26827",
+  "customerId": "67ec1a63fabf6d0f4ada9866",
+  "creditEnabledToUse": 3000,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1ea"
+  },
+  "productType": "PLAZO FIJO",
+  "productId": "67f9e1c9fe034d395c6d23b3",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 100,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1eb"
+  },
+  "productType": "CUENTA CORRIENTE",
+  "productId": "67f9cd80200fc270ce30e284",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 3720,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1ec"
+  },
+  "productType": "CUENTA DE AHORROS",
+  "productId": "67f9cc806e374c0902dcdb73",
+  "customerId": "67ec1a41fabf6d0f4ada9865",
+  "creditEnabledToUse": 0,
+  "creditLimitTotal": 0,
+  "creditLimitUsed": 0,
+  "totalAmountInAccount": 505,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+},
+{
+  "_id": {
+    "$oid": "6807d3f8a6d3d85ebd16b1ef"
+  },
+  "productType": "TARJETA DE CREDITO",
+  "productId": "67fac6ee3d4d5b2abeb89be8",
+  "customerId": "67ec1aa7fabf6d0f4ada9868",
+  "creditEnabledToUse": 2500,
+  "creditLimitTotal": 3000,
+  "creditLimitUsed": 500,
+  "totalAmountInAccount": 0,
+  "informDate": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "_class": "com.bootcamp.service.finance.model.ResumeModel"
+}]
